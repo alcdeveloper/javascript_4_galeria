@@ -300,7 +300,7 @@ PANTALLA DE PHONES - EXTRA SMALL (xs) - revisamos en movil horizontal 480px o ve
 	.col-xs-1{width: 8.33333333%;}
 	.col-xs-0{display:none;}
 
-	/*CABEZOTE*/
+	/*HEADER*/
 	
 	header nav ul li a{
 		margin:0px;
